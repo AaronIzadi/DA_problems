@@ -1,4 +1,5 @@
 //Given two arrays of integers, the question is to find the longest common ascending subsequence.
+package homework_2;
 
 import java.util.Scanner;
 

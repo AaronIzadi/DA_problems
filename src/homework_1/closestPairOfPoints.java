@@ -1,4 +1,5 @@
 //The question is to find the two points which have the shortest distance.
+package homework_1;
 
 import java.util.Comparator;
 import java.util.Scanner;

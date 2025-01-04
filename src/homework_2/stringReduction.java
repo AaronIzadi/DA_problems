@@ -1,5 +1,5 @@
-//Reduction is possible to a string if there exists substring of "BB" or "AB".
-// the problem is to find the length of the string after reduction.
+//Reduction is possible to a string if there exists substring of "BB" or "AB". The problem is to find the length of the string after reduction.
+package homework_2;
 
 import java.util.Scanner;
 

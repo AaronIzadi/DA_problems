@@ -1,5 +1,6 @@
-//There are two types of transformation for numbers, either multiply by 2 or minus 1.
-//Given two integers, the  problem is to find the minimum number of operations to transform integer one to integer two.
+/*There are two types of transformation for numbers, either multiply by 2 or minus 1.
+Given two integers, the  problem is to find the minimum number of operations to transform integer one to integer two.*/
+package homework_1;
 
 import java.util.LinkedList;
 import java.util.Queue;

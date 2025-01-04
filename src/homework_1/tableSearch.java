@@ -1,4 +1,5 @@
 //Given a 2D table, the problem is to find if there exists a specific word in the table.
+package homework_1;
 
 import java.util.Scanner;
 

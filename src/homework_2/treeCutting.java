@@ -1,5 +1,6 @@
-//There are n trees with position x and height h, we can cut them if either [x,x+h] or [x-h,x] is empty for the tree to fall.
-//The problem is to find the maximum number of trees that can be cut.
+/*There are n trees with position x and height h, we can cut them if either [x,x+h] or [x-h,x] is empty for the tree to fall.
+The problem is to find the maximum number of trees that can be cut.*/
+package homework_2;
 
 import java.util.Scanner;
 
