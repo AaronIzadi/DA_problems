@@ -3,7 +3,7 @@ package homework_2;
 
 import java.util.Scanner;
 
-public class longestCommonAscendingSubsequence {
+public class lcas {
 
     public static int lcs(int[] a, int[] b) {
         int n = a.length;
